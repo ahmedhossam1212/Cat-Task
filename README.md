@@ -1,16 +1,10 @@
 # cat_task
 
-A new Flutter project.
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1670434828](https://user-images.githubusercontent.com/93291446/206255850-9a99c2d6-ee2c-4826-b593-2fbcfa49e8db.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
